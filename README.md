@@ -34,10 +34,9 @@ Sou um desenvolvedor apaixonado por construir sistemas robustos e resolver probl
 ## 🚀 Projetos em Destaque
 
 ### 📈 [AçõesJá](https://github.com/RaphaelFeijoSalles/acoes-ja-showcase)
-**Plataforma Full-Stack de Inteligência Financeira (Spring & React)**
-Sistema de análise para o mercado de capitais focado em alta disponibilidade e consistência.
-- **Backend (Java/Spring):** Garante o processamento seguro de regras de negócio com um pipeline ETL que ingere dados da CVM e os cruza com cotações externas. Destaque para a modelagem *Asset-first*, algoritmos de *Self-Healing* para balanços corrompidos e integrações com LLMs.
-- **Frontend (React/TS):** Interface acessível com gráficos interativos e tutoriais guiados.
+**Plataforma Full-Stack de Inteligência Financeira (Spring Boot & React)**. 
+- Cruzamento de dados fundamentalistas da CVM e cotações da B3 com modelo Freemium.
+- Arquitetura resiliente com pipeline ETL otimizado, cache e self-healing, focada em alta disponibilidade.
 
 ### 🎯 [LeetCode Tracker](https://github.com/RaphaelFeijoSalles/leetcode-tracker)
 **Plataforma de Gestão de Estudos em Algoritmos (React & TypeScript)**
