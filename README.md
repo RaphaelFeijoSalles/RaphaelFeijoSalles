@@ -1,81 +1,176 @@
-<img src="banner.png" alt="Profile Banner" width="100%">
+# 👨🏻‍💻 Raphael Feijó Salles
 
-<h1 align="center">Olá! Me chamo Raphael Feijó Salles 👋</h1>
+**`Engenheiro de Software Full-Stack | Tech Lead`**
 
-<h3 align="center">Engenheiro de Software Full-Stack | Unindo Tecnologia e Lógica de Negócios</h3>
+Me chamo Raphael Feijó Salles, tenho 18 anos e sou de Londrina, PR. Sou apaixonado por arquitetura de software, alta performance e clean code. Atualmente, curso Sistemas de Informação na UTFPR, agregando ao meu semestre de bagagem prévia em Engenharia de Software e Ciências Contábeis para desenvolver soluções voltadas a regras de negócio complexas. Atuo liderando projetos de impacto e desenvolvendo aplicações completas e escaláveis, desde o banco de dados até a interface.
 
-<p align="center">
-  📍 Baseado em Londrina, PR, Brasil <br>
-  💼 Focado em arquiteturas resilientes, análise de dados e performance na web.
+<p align="left">
+    <a href="https://www.linkedin.com/in/raphaelfeijosalles/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&color=0A66C2"
+        />
+    </a>
+    <a href="https://github.com/RaphaelFeijoSalles?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/RaphaelFeijoSalles?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/RaphaelFeijoSalles?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/RaphaelFeijoSalles?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raphaelfeijosalles" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:feijoraphael1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+---
+
+### 🚀 Projetos em Destaque
+
+*   📈 **AçõesJá:** Hub de inteligência financeira. Pipeline ETL complexo processando 10 anos de dados da CVM, com fallback em múltiplas camadas e análises auxiliadas por Inteligência Artificial. <br> 🔗 **[Acessar Repositório Showcase](https://github.com/RaphaelFeijoSalles/acoes-ja-showcase)**
+*   💻 **[SallesLab / SallesDev](https://salles-dev.vercel.app/marketing):** Plataforma educacional gamificada com integração profunda à API do GitHub (orquestração automática de repositórios, issues e branches).
+*   🤝 **Espalhadeiras do Bem:** Liderança técnica na construção multiplataforma de um ecossistema de impacto social.
+*   🎓 **[Sistema CASIS](https://sistema-casis.vercel.app/):** Automação na geração de PDFs e envio de e-mails para certificados estudantis, integrando regras de negócio em templates. <br> 🔗 **[Acessar Repositório Open Source](https://github.com/RaphaelFeijoSalles/sistemaCasis)**
+*   🧠 **[Portfólio Eneida Feijó](https://eneidafeijo.com):** Desenvolvimento de plataforma responsiva com checkout nativo integrado à InfinitePay, webhooks de confirmação e automação de gestão via planilhas. <br> 🔗 **[Acessar Repositório](https://github.com/RaphaelFeijoSalles/portifolio-psicologa-eneida)**
+
+---
+
+### 💻 Linguagens
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 🛠️ Frameworks & Ferramentas
+
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-pitp75vaw-raphaelfeijosalles-projects.vercel.app/api?username=RaphaelFeijoSalles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="Top Languages" 
+      height="200" 
+      src="https://github-readme-stats-pitp75vaw-raphaelfeijosalles-projects.vercel.app/api/top-langs/?username=RaphaelFeijoSalles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor apaixonado por construir sistemas robustos e resolver problemas complexos de domínio. O meu principal diferencial é a intersecção entre o desenvolvimento de software e um forte interesse em **contabilidade e mercado financeiro**, o que me permite traduzir regras de negócio rígidas em arquiteturas de código limpas e escaláveis.
-
-- 🏗️ Desenvolvendo soluções full-stack utilizando **Java, Spring Boot, React e TypeScript**.
-- ☁️ Experiência com infraestrutura e automação, desde configurações web (DNS/Email) até o deploy de instâncias **AWS EC2** para operar robôs de trading (MetaTrader) ininterruptamente.
-- 🧩 Utilizo a programação para otimizar processos diários, criando desde scripts com ExifTool para organização massiva de arquivos até plataformas de estudo.
-- 🏋️‍♂️ Fora do código: Dedicado à musculação e sempre explorando novos rodízios de comida japonesa.
-
----
-
-## 🚀 Projetos em Destaque
-
-### 📈 [AçõesJá](https://github.com/RaphaelFeijoSalles/acoes-ja-showcase)
-**Plataforma Full-Stack de Inteligência Financeira (Spring Boot & React)**. 
-- Cruzamento de dados fundamentalistas da CVM e cotações da B3 com modelo Freemium.
-- Arquitetura resiliente com pipeline ETL otimizado, cache e self-healing, focada em alta disponibilidade.
-
-### 🎯 [LeetCode Tracker](https://github.com/RaphaelFeijoSalles/leetcode-tracker)
-**Plataforma de Gestão de Estudos em Algoritmos (React & TypeScript)**
-Aplicação frontend desenvolvida para rastreamento de progresso em estruturas de dados.
-- Utiliza Custom Hooks para persistência de dados locais de forma eficiente.
-- Interface totalmente responsiva com suporte a temas dinâmicos.
-- Esteira de CI/CD 100% automatizada via GitHub Actions para deploy contínuo.
-
-### ⚖️ [Portfólio Profissional](https://github.com/RaphaelFeijoSalles/portifolio-psicologa-eneida)
-**Website Responsivo e Mobile-First (HTML5, CSS3, JS)**
-- Prioriza alta performance e acessibilidade
-- Arquitetura modular para landing pages de eventos
-- Interações fluidas nativas (CSS Scroll Snap)
-- Abrangeu toda a configuração de infraestrutura web (DNS e e-mail profissional).
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-<div align="center">
-  
-  **Backend & Banco de Dados**<br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  
-  <br><br>
-  **Frontend**<br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-
-  <br><br>
-  **Infraestrutura & DevOps**<br>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" alt="AWS EC2">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  
-</div>
