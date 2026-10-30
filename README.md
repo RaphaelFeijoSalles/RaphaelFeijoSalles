@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Raphael Feijó Salles
 
-**`Engenheiro de Software Full-Stack | Tech Lead`**
+**`Engenheiro de Software Full-Stack`**
 
 Me chamo Raphael Feijó Salles, tenho 18 anos e sou de Londrina, PR. Sou apaixonado por arquitetura de software, alta performance e clean code. Atualmente, curso Sistemas de Informação na UTFPR, agregando ao meu semestre de bagagem prévia em Engenharia de Software e Ciências Contábeis para desenvolver soluções voltadas a regras de negócio complexas. Atuo liderando projetos de impacto e desenvolvendo aplicações completas e escaláveis, desde o banco de dados até a interface.
 
